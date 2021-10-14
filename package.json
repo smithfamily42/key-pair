@@ -1,0 +1,19 @@
+{
+  "name": "key-value",
+  "version": "1.0.0",
+  "description": "CLI for pushing and fetching key-value pairs",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "key",
+    "value",
+    "CLI"
+  ],
+  "author": "Brad Smith",
+  "license": "MIT",
+  "bin": {
+    "key-value": "./bin/index.js"
+  }
+}
