@@ -1,7 +1,11 @@
-## Key-Pair
+## Key-Value
 
 # Description
-Command Line Interface for user input of key pairs (i.e. favorite_dog Rodrigo)
+Command Line Interface for user input of key value pairs (i.e. favorite_dog Rodrigo)
+
+# Deploy
+You can run with the command `key-value`
+Ctrl + C to exit at anytime
 
 # Contraints
 Working with only built in libraries create a CLI that prompts for key-value pairs.
